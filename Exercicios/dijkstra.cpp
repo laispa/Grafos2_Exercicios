@@ -21,7 +21,7 @@ vector<long long> dijkstra(long long s, long long  N, vector<long long>& parent)
     set<ii> U;
     U.emplace(0, s);
 
-    while (not U.empty())
+    while (!U.empty())
     {
         auto [d, u] = *U.begin();
         U.erase(U.begin());
