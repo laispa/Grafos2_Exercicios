@@ -1,44 +1,56 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
 # NomedoProjeto
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0046848  |  Lais Portela de Aguiar |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Resolução de três exercícios de juízes online
+
+1. [Dijkstra?](https://codeforces.com/contest/20/problem/C) - Considerado díficil
+2. [Road Reparation](https://cses.fi/problemset/task/1675/)  - Considerado médio
+3. [Shortest Routes I](https://cses.fi/problemset/task/1671) - Considerado médio
+
+## Outros 
+O vídeo de apresentação foi compartilhado no [google drive](https://drive.google.com/file/d/1NReEijcuRaqwDWQW8Y5ZWlbP38LXRVfN/view?usp=sharing). Por padrão, os videos ficam em baixa qualidade no google drive, para ver na resolução original é só baixar. 
+
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Dijkstra?
+
+
+<img src="Imagens/DijkstraExemplo.png" alt="Dijstra exemplo " width="300">
+<img src="Imagens/DijkstraExemplo_resolução.png" alt="Dijkstra exemplo resolvido " width="300">
+<img src="Imagens/dijkstraSubmissão.png" alt="Dijstra exemplo submissão " width="300">
+
+
+### Shortest Routes I
+
+<img src="Imagens/Dijkstra2Exemplo.png" alt="Dijkstra exemplo " width="300">
+<img src="Imagens/Dijkstra2Exemplo_resolução1.png" alt="Dijkstra exemplo2  resolvido 1" width="300">
+<img src="Imagens/Dijkstra2Exemplo_resolução2.png" alt="Dijkstra exemplo 2 resolvido 2" width="300">
+<img src="Imagens/ShortestRoutesSubmissão.png" alt="Dijkstra submissão " width="300">
+
+### Road Reparation
+
+<img src="Imagens/PrimExemplo.png" alt="Road Reparation exemplo " width="300">
+<img src="Imagens/PrimExemplo_com_resolução.png" alt="Road Reparation resolvido  " width="300">
+<img src="Imagens/RoadReparationSubmissão.png" alt="Road Reparation Submissão" width="300">
+
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
+**Linguagem**: C++<br>
+**Framework**: Compilador G++<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para testar os exercícios basta ir nos links de cada exercício e inserir o arquivo .cpp correspondente, colocando c++17
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
