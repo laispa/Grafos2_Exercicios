@@ -26,7 +26,7 @@ O vídeo de apresentação foi compartilhado no [google drive](https://drive.goo
 Resolução do Exercício usando o algoritmo Dijkstra
 <img src="Imagens/DijkstraExemplo.png" alt="Dijstra exemplo " width="300">
 <img src="Imagens/DijkstraExemplo_resolução.png" alt="Dijkstra exemplo resolvido " width="300">
-<img src="Imagens/dijkstraSubmissão.png" alt="Dijstra exemplo submissão " width="300">
+<img src="Imagens/dijkstraSubmissão.png" alt="Dijstra exemplo submissão " width="600">
 
 
 ### Shortest Routes I
@@ -35,14 +35,14 @@ Resolução do Exercício usando o algoritmo Dijkstra
 <img src="Imagens/Dijkstra2Exemplo.png" alt="Dijkstra exemplo " width="300">
 <img src="Imagens/Dijkstra2Exemplo_resolução1.png" alt="Dijkstra exemplo2  resolvido 1" width="300">
 <img src="Imagens/Dijkstra2Exemplo_resolução2.png" alt="Dijkstra exemplo 2 resolvido 2" width="300">
-<img src="Imagens/ShortestRoutesSubmissão.png" alt="Dijkstra submissão " width="300">
+<img src="Imagens/ShortestRoutesSubmissão.png" alt="Dijkstra submissão " width="600">
 
 ### Road Reparation
 Resolução do Exercício usando o algoritmo Prim
 
 <img src="Imagens/PrimExemplo.png" alt="Road Reparation exemplo " width="300">
 <img src="Imagens/PrimExemplo_com_resolução.png" alt="Road Reparation resolvido  " width="300">
-<img src="Imagens/RoadReparationSubmissão.png" alt="Road Reparation Submissão" width="300">
+<img src="Imagens/RoadReparationSubmissão.png" alt="Road Reparation Submissão" width="600">
 
 
 ## Instalação 
