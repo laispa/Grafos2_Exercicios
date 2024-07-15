@@ -24,6 +24,7 @@ O vídeo de apresentação foi compartilhado no [google drive](https://drive.goo
 ### Dijkstra?
 
 Resolução do Exercício usando o algoritmo Dijkstra
+
 <img src="Imagens/DijkstraExemplo.png" alt="Dijstra exemplo " width="300">
 <img src="Imagens/DijkstraExemplo_resolução.png" alt="Dijkstra exemplo resolvido " width="300">
 <img src="Imagens/dijkstraSubmissão.png" alt="Dijstra exemplo submissão " width="600">
